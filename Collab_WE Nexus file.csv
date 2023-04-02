@@ -1,4 +1,4 @@
-﻿Year,T. GHG,Territorial CO2,Total RE,Total NRE,Electrictity consumption,Population density,U_pop.,Freshwater With,R internal freshwater,Water stress,Climate Max temp,Climate Min Temp,Climate Mean Temp,Mean Preciptation
+﻿Year,TGHG,TerrCO2,TotalRE,TotalNRE,Econsumption,PopD,Upop.,FreshwaterWith,Rinternalfreshwater,Waterstress,MaxT,MinT,MeanT,MeanP
 1986,404710,404.7,310.636,155.946,15363.39958,2.911161229,1.187689414,42.2,109194.2392,4.346035015,0.08,-9.66,-4.79,550.39
 1987,430980,431,316.207,177.719,15798.28727,2.94978925,1.344305762,42.7786,107764.321,4.405581874,1.44,-8.2,-3.37,520.75
 1988,455670,455.7,307.436,195.899,16389.3381,2.988285991,1.32275789,43.3572,106376.0418,4.465128733,0.63,-9.01,-4.19,557.64
